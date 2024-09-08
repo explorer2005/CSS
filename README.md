@@ -1,2 +1,2 @@
 # CSS
-In this all the work relatedto Css is uploaded.
+In this all the work related to Css is uploaded.

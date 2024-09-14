@@ -1,0 +1,38 @@
+div{
+    height: 60px;
+    background-color: #0f1111;
+}
+#left{
+    text-align: left;
+    color: #f08804;
+    size: 25px;
+}
+#search{
+    text-align: right;
+    background-color: #f08804;
+    color: aliceblue;
+}
+#in{
+    text-align: right;
+    /* background-color: #f08804;
+    color: aliceblue; */
+    color: aliceblue;
+}
+#hi{
+    text-align: right;
+}
+#acr{
+    color: aliceblue;
+    text-decoration: none;
+}
+span{
+    color: aliceblue;
+}
+#main{
+    size: 25px;
+    justify-content: space-evenly;
+    gap: 200px;
+}
+#button{
+    text-align: right;
+}

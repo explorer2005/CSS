@@ -1,0 +1,32 @@
+.content{
+    height: 100px;
+    width: 100px;
+    border: solid;
+    margin-top: 25px;
+    opacity: 0.5;
+    display: inline-block;
+}
+#div1{
+    background-color: green;
+}
+#div2{
+    background-color: yellow;
+}
+#div3{
+    background-color: red;
+}
+#head{
+    height: 60px;
+    background-color: #0f1111;
+}
+#amazon{
+    color: orangered;
+}
+a{
+    color: white;
+    margin-right: 110px;
+    text-decoration: none;
+}
+button{
+    background-color: orangered;
+}
